@@ -19,31 +19,31 @@ The home page of the JOSAA Analysis portal provides a user-friendly interface to
 - Analyze institute wise cut-off trends
 - Roundwise cut-off Analysis 
 
-- ![home](IMAGES/img_1.png)
+- ![home](IMAGES/IMG_1.png)
 
 ## View Institute wise cut-off list page
 - Upon clicking this option, a list of all IITs is shown along with their NIRF ranking(2023), Location and their established year. So the users can select specific institutes and explore the corresponding cut-off data.
-- ![iit list](IMAGES/img_2.png)
+- ![iit list](IMAGES/IMG_2.png)
  
   - ### For each IIT
       - By selecting a specific IIT, users can explore the trends and changes in the cut-off ranks throughout the various rounds of the seat allocation process over the years 2016 to 2022.
       - It can further narrow down their search by choosing specific programs offered by the selected institutes along with seat type and gender.
       - This feature helps users understand the cut-off trends for different programs in their preferred institutes.
-      - ![first graph](IMAGES/img_3.png)
+      - ![first graph](IMAGES/IMG_3.png)
 
 ## Analyze institute wise cut-off trends
 - Institute trends highlight the trends of various programs offered by a particular institute over the years. This helps understand the popularity and perception of programs offered by the institute, and thus helps understand the demand for a particular program in the institute during the counselling process.
-- ![Screenshot (20)](IMAGES/img_4.png)
+- ![Screenshot (20)](IMAGES/IMG_4.png)
   
 - Upon sleecting the gender, branch and institute, user will get the cut-off analysis for each branch present at that IIT.
 
-- ![Screenshot (22)](IMAGES/img_5.png)
+- ![Screenshot (22)](IMAGES/IMG_5.png)
 
 ## Roundwise cut-off Analysis
 - Round trends highlight the general trend of closing ranks throughout the rounds of the counselling process. This helps understand the likely range of changes to the closing ranks throught the counselling proces.
 - Users can get the round wise analysis at each IIT by selecting the gender,seat type and branch. 
 - User can change the college name by clicking on "Go to iit-list" buttion.
-- ![Screenshot (25)](IMAGES/img_6.png)
+- ![Screenshot (25)](IMAGES/IMG_6.png)
 
 
 
